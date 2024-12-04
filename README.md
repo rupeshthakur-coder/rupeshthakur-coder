@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Rupesh Thakur!
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Rupesh+Thakur,+the+Bugless+Coder!;Nice+to+Meet+You!&center=true&size=30&width=800">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Rupesh+Thakur,+the+Bugless+Coder!;App+Developer+Extraordinaire!;Nice+to+Meet+You!&center=true&size=30&width=800">
   </a>
 </h1>
 
-- 🔭 I’m currently working on various Flutter projects with a focus on applying **SOLID principles**, **design patterns**, and building **robust app system architectures**.
+- 🔭 I’m currently working on various Flutter projects with a focus on applying **SOLID principles**, **design patterns**, and building **robust app system architectures** as an app developer.
 - 🌱 I’m deepening my knowledge in **advanced state management**, **dependency injection**, and architectural patterns like **BLoC** and **MVVM**.
 - 👯 I’m looking to collaborate on **open-source projects** that emphasize **clean code practices**, **modularity**, and **maintainable system design**.
 - 📫 How to reach me: [rupeshthakur.dev@gmail.com](mailto:rupeshthakur.dev@gmail.com)
